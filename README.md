@@ -15,6 +15,6 @@ Herencia, listas , arraylist, add , remove, Abm
 Cursogramas elementos , utilidad, tecnicas , simbolos(descripcion y denominacion).
 Documentacion tecnicas , git y github.
 Documentacion tecnica y de usuarios , tareas y procesos del sistema , manual de usuario.
-Diagrama de flujo, Casos de usos
+Diagrama de flujo,Casos de usos
 Documentacion de un protecto 7 pasos.
 Documentacion de relevamiento , diseño, tecnico ,usuario , instalacion y despliegue , control de versiones Diagrama pert y gant

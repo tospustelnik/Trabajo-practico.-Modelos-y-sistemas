@@ -7,7 +7,9 @@ Diagrama de transición de estado. Diagrama de entidad. Relación. Técnicas par
 Ciclo de vida.Números al Azar: Funciones generadoras de números aleatorios. Métodos, manuales y algoritmos. Comparación. Teoría de los modelos:
 Tabla y árboles de decisión. Abstracción de datos. Objetivos en el uso de modelos matemáticos. Clasificación de modelos. Predicción de los
 resultados. Diseño de documentación y manuales de sistemas y usuarios: Técnicas para la elaboración de la documentación de las tareas. Lineamientos generales para la confección del manual. Conformación de la organización de la documentación.
+
 Los temas vistos en 7°mo son:
+
 Programacion orientada a objetos Clase , objeto.
 Diagrama entidad relacion , relaciones ,pk atributos.
 Diagrama de clases ,creacion de clases , paquetes, instancia , atributos, tipos visibilidad, get , set , constructores.
